@@ -11,3 +11,8 @@ No, the feature that would send a message involves multiple components like the 
 
 Yes, validating whether an message input is too long for the max message length is an isolated pure logic check which is perfect for a unit test.
 
+Expose:
+https://aidanrik.github.io/Lab5_Starter/expose.html
+
+Explore:
+https://aidanrik.github.io/Lab5_Starter/explore.html
